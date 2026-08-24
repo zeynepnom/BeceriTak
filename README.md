@@ -1,5 +1,4 @@
-# BeceriTak
-A student skill-sharing platform built with Next.js, React, TypeScript and Tailwind CSS.
+
 BeceriTak 🎓⏳
 
 Becerini paylaş, zaman kazan.
